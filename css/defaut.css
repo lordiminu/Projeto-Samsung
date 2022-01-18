@@ -15,6 +15,9 @@
     --cor4:#ffffff;
     --cor5:#000000;
 }
+body{
+    min-width: 400px;
+}
 header{
     width: 100%;
     display: flex;
