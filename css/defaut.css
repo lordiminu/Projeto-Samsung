@@ -29,7 +29,7 @@ div a{
 #content{
     display: flex;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 .item{
     list-style: none;
