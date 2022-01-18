@@ -69,6 +69,11 @@ div a{
 }
 @media screen and(max-width: 400px){
     header{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #content{
+        display:flex;
         flex-wrap: wrap;
     }
 }
