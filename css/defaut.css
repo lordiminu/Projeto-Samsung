@@ -63,10 +63,6 @@ div a{
     font-weight: bolder;
     color: #032757;
 }
-.media p{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 3em;
-}
 @media screen and(max-width: 400px){
     header{
         display: flex;
