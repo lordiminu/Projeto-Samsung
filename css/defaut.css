@@ -15,6 +15,7 @@
     --cor5:#000000;
 }
 body{
+    max-width: 100%;
 }
 header{
     width: 100%;
